@@ -1,6 +1,7 @@
 # vile envoy of lipid quark
 
-[//]: # [label text](https://example.com)
+
+
 
 ## a 2d12 solo oracle
 
