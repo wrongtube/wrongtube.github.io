@@ -8,16 +8,16 @@
 | | OUTCOME | CONSEQUENCE |
 | ---: | :---: | :---: |
 | 1 | total failure: | major injury |
-| 2 | a new approach | circumstances worsen |
-| 3 | is needed | enemies called |
+| 2 | a new approach | minor injury |
+| 3 | is needed | circumstances worsen |
 | | | |
-| 4 | partial failure: | minor injury |
+| 4 | partial failure: | enemies called |
 | 5 | may try again if | item destroyed |
 | 6 | situation altered | item broken |
 | | | |
-| 7 | partial success: | puzzle/confusion |
-| 8 | do the thing but | emotional/social |
-| 9 | outcome reduced | coin/treasure |
+| 7 | partial success: | puzzle, trap, chaos |
+| 8 | do the thing but | rumour, favour, lead |
+| 9 | outcome reduced | NPC: ally, rival, or ambivalent |
 | | | |
 | 10 | total success: | circumstances improve |
 | 11 | the thing is done | minor boon |
